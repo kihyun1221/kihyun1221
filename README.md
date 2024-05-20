@@ -10,7 +10,7 @@ DGU Graduate School ICE, Smart Ocean Mobility Major (2024 ~ )
 
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-#006600?style=flat-square&logo=android-studio&logoColor=white)<br>
+![Android Studio](https://img.shields.io/badge/Android_Studio-006600?style=flat-square&logo=android-studio&logoColor=white)<br>
 ![Python](https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=Keras&logoColor=white)
