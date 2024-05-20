@@ -31,7 +31,7 @@ DGU Graduate School ICE, Smart Ocean Mobility Major (2024 ~ )
 ## 📚 Project
 
 | Project | Organization | Tech Stack | Contribution | Year |
-| --- | --- | --- | --- | --- | --- | --- |
+| --- | --- | --- | --- | --- | --- |
 | 손동작 인식과 얼굴 인식을 통한 이중 문서 보안 | 동국대학교 | Python, Android Studio | 얼굴 인식, 앱 개발 | 2023 |
 | AI 활용 용접 RT 결함판독 시스템 | 동국대학교, 한화오션 | Python, Tensorflow, django | 객체탐지모델 구축, 웹 개발 | 2023 |
 | 악천후 상황에서의 객체 탐지율 향상 프로젝트 | 동국대학교, 한화오션 | Python | 보조 연구 | 2024 |
