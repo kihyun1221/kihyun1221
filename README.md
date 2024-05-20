@@ -6,7 +6,6 @@ DGU Graduate School ICE, Smart Ocean Mobility Major (2024 ~ )
 <br><br><br>
 
 ## 🛠 Tech Stacks
-여기에 사용하는 기술들을 나열하세요. 예를 들어,
 
 
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
@@ -17,11 +16,9 @@ DGU Graduate School ICE, Smart Ocean Mobility Major (2024 ~ )
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=Keras&logoColor=white)
 ![Tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white)
 
-
 <br><br><br>
 
 ## 📚 Project
-여기에 참여했던 프로젝트들을 표 형식으로 적으세요. 예를 들어,
 
 | 프로젝트 이름 | 설명 | 사용 기술 |
 | --- | --- | --- |
