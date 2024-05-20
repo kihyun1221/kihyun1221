@@ -1,4 +1,4 @@
-# Profile
+# 😛Profile
 
 DGU ICE (2018 ~ 2024)<br>
 DGU Graduate School ICE, Smart Ocean Mobility Major (2024 ~ )
@@ -18,7 +18,7 @@ DGU Graduate School ICE, Smart Ocean Mobility Major (2024 ~ )
 
 <br><br><br>
 
-## Activity
+## 🏃‍♂️Activity
 - 2022년 동국대학교 정보통신공학과 학생회장
 - 2023년 4학년 과대표
 - 2023년 2학기 정보통신프로그래밍 조교
@@ -30,11 +30,16 @@ DGU Graduate School ICE, Smart Ocean Mobility Major (2024 ~ )
 
 ## 📚 Project
 
-| Project | Organization | Tech Stack | Contribution | Award | Year |
-| --- | --- | --- |
-| 프로젝트1 | 프로젝트에 대한 간단한 설명 | Python, Django |
-| 프로젝트2 | 프로젝트에 대한 간단한 설명 | C, Flask |
-| 프로젝트3 | 프로젝트에 대한 간단한 설명 | Dart, Android Studio |
+| Project | Organization | Tech Stack | Contribution | Year |
+| --- | --- | --- | --- | --- | --- | --- |
+| 손동작 인식과 얼굴 인식을 통한 이중 문서 보안 | 동국대학교 | Python, Android Studio | 얼굴 인식, 앱 개발 | 2023 |
+| AI 활용 용접 RT 결함판독 시스템 | 동국대학교, 한화오션 | Python, Tensorflow, django | 객체탐지모델 구축, 웹 개발 | 2023 |
+| 악천후 상황에서의 객체 탐지율 향상 프로젝트 | 동국대학교, 한화오션 | Python | 보조 연구 | 2024 |
+
+<br><br><br>
+
+## 🏆Award
+2023년 캡스톤디자인 지식재산 경진대회 대상 
 
 <br><br><br>
 
