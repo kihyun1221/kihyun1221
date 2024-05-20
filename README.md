@@ -30,7 +30,7 @@ DGU Graduate School ICE, Smart Ocean Mobility Major (2024 ~ )
 
 ## 📚 Project
 
-| Project | Organization | Tech Stack | Contribution | Award | Year
+| Project | Organization | Tech Stack | Contribution | Award | Year |
 | --- | --- | --- |
 | 프로젝트1 | 프로젝트에 대한 간단한 설명 | Python, Django |
 | 프로젝트2 | 프로젝트에 대한 간단한 설명 | C, Flask |
