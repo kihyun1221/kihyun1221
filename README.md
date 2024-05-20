@@ -34,4 +34,3 @@
 
 ## 📫 Contact
 - 이메일: rlsrlgus123@naver.com
-- 깃헙: [@yourgithub]([https://github.com/kihyun1221])
