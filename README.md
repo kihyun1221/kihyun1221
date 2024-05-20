@@ -1,12 +1,9 @@
-# 안녕하세요, 여러분의 프로필을 소개합니다!
+# Profile
 
-여기에 자신에 대한 간단한 소개를 적으세요. 예를 들어,
-- 👋 안녕하세요, 저는 [당신의 이름]입니다.
-- 🔭 현재 저는 [프로젝트/회사 이름]에서 일하고 있습니다.
-- 🌱 저는 현재 [기술/언어]를 배우고 있습니다.
-- 💬 저에게 물어보고 싶은 것이 있다면 언제든지 연락주세요.
+DGU ICE (2018 ~ 2024)
+DGU Graduate School ICE, Smart Ocean Mobility Major (2024 ~ )
 
-<br><br><br><br><br>
+<br><br><br>
 
 ## 🛠 Tech Stacks
 여기에 사용하는 기술들을 나열하세요. 예를 들어,
@@ -19,7 +16,7 @@
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=Dart&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white)
 
-<br><br><br><br><br>
+<br><br><br>
 
 ## 📚 Project
 여기에 참여했던 프로젝트들을 표 형식으로 적으세요. 예를 들어,
@@ -30,7 +27,7 @@
 | 프로젝트2 | 프로젝트에 대한 간단한 설명 | C, Flask |
 | 프로젝트3 | 프로젝트에 대한 간단한 설명 | Dart, Android Studio |
 
-<br><br><br><br><br>
+<br><br><br>
 
 ## 📫 Contact
 - 이메일: rlsrlgus123@naver.com
