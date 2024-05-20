@@ -21,16 +21,16 @@ DGU Graduate School ICE, Smart Ocean Mobility Major (2024 ~ )
 ## Activity
 - 2022년 동국대학교 정보통신공학과 학생회장
 - 2023년 4학년 과대표
-- 2023년 정보통신프로그래밍 조교
-- 2024년 자료구조와실습 조교
-- 2022년~2023년 이동통신 랩실 학부연구생
-- 2024년 3월~   MMCL 연구실 / 스마트오션모빌리티 대학원생
+- 2023년 2학기 정보통신프로그래밍 조교
+- 2024년 1학기 자료구조와실습 조교
+- 2022년~2023년 MMCL Lab 학부연구생
+- 2024년 3월~   MMCL Lab / 스마트오션모빌리티 대학원생
 
 <br><br><br>
 
 ## 📚 Project
 
-| 프로젝트 이름 | 설명 | 사용 기술 |
+| Project | Organization | Tech Stack | Contribution | Award | Year
 | --- | --- | --- |
 | 프로젝트1 | 프로젝트에 대한 간단한 설명 | Python, Django |
 | 프로젝트2 | 프로젝트에 대한 간단한 설명 | C, Flask |
