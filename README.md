@@ -34,7 +34,7 @@ DGU Graduate School ICE, Smart Ocean Mobility Major (2024 ~ )
 
 | Project | Organization | Tech Stack | Contribution | Year |
 | --- | --- | --- | --- | --- |
-| 손동작 인식과 얼굴 인식을 통한 이중 문서 보안 | 동국대학교 | ![Python](https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white) ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white) | 얼굴 인식, 앱 개발 | 2023 |
+| 손동작 인식과 얼굴 인식을 통한 이중 문서 보안 | 동국대학교 | ![Python](https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white) ![Android Studio](https://img.shields.io/badge/Android_Studio-006600?style=flat-square&logo=android-studio&logoColor=white) | 얼굴 인식, 앱 개발 | 2023 |
 | AI 활용 용접 RT 결함판독 시스템 | 동국대학교, 한화오션 | ![Python](https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white) ![Tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white) | 객체탐지모델 구축, 웹 개발 | 2023 |
 | 악천후 상황에서의 객체 탐지율 향상 프로젝트 | 동국대학교, 한화오션 | ![Python](https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white) | 보조 연구 | 2024 |
 
