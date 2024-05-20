@@ -1,6 +1,6 @@
 # Profile
 
-DGU ICE (2018 ~ 2024)
+DGU ICE (2018 ~ 2024)<br>
 DGU Graduate School ICE, Smart Ocean Mobility Major (2024 ~ )
 
 <br><br><br>
